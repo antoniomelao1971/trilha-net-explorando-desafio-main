@@ -1,0 +1,15 @@
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/bin/Debug/net6.0/DesafioProjetoHospedagem
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/bin/Debug/net6.0/DesafioProjetoHospedagem.deps.json
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/bin/Debug/net6.0/DesafioProjetoHospedagem.runtimeconfig.json
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/bin/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/bin/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/refint/DesafioProjetoHospedagem.dll
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/home/antoniom/Documents/DotNetDIO/trilha-net-explorando-desafio-main/obj/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
